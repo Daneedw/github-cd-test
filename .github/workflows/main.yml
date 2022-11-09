@@ -13,4 +13,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "https://quiet-harbor-32544.herokuapp.com/"
           heroku_email: "daneedw@gmail.com"
-          stack: "container"
+          stack: "heroku-20"
