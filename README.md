@@ -61,7 +61,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Deployment![png-clipart-pokemon-pikachu-pikachu-pokemon-games-pokemon-thumbnail](https://user-images.githubusercontent.com/10774894/219748848-06ba6dc0-9d12-46ae-b2d3-f7bba6fd50c1.png)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
